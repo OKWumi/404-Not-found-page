@@ -71,5 +71,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com]()
-- GitHub [@your-username](https://github.com/Okwumi)
-- Twitter [@your-twitter](https://twitter.com/Khodeejah5)
+- GitHub [@https://github.com/Okwumi](https://github.com/Okwumi)
+- Twitter [@https://twitter.com/Khodeejah5](https://twitter.com/Khodeejah5)
