@@ -1,0 +1,88 @@
+* {
+	 margin: 0;
+	 padding: 0;
+}
+body {
+		box-sizing: border-box;
+}
+main {		
+			margin: 15px 15px 7px 15px;									              
+}
+header{
+   font-family:  Lucida, Monospace;
+		font-size: 16px;	
+		color: #333333;
+		margin: 15px 15px 20px 15px;
+}
+img {
+				width: 100%;
+				height: auto;
+				display: block;
+				margin-block: 24px;
+				margin-bottom: 30px;
+				
+}
+.img-info h1{
+		font-family:  Lucida, Monospace;											
+		font-weight: 700;				
+		line-height: 32px;	
+		padding-bottom: 14px; 
+		font-size: 27px;
+}
+.img-info p {
+			line-height: 26px;
+			font-family:  Lucida, Monospace;											
+		 font-size: 19px;	
+	   margin-block: 4px;		
+	   margin-bottom: 20px;			
+}
+button {
+			color: white;
+			background-color: #333333;
+			padding: 10px;
+  		border: none;										
+			height: 53px;
+			width: 190px;												
+		        font-family:  Lucida, Monospace;
+			font-size: 16px;	
+			font-weight: 700;
+			letter-spacing: 1px;
+			cursor: pointer;
+}										
+									
+.rec, a{										 
+			text-align: center;
+			color: darkgray;
+			font-family:  Lucida, Monospace;										 
+}		
+@media only screen and (min-width: 600px) {
+.wrapper {
+     max-width: 1000px;
+     margin: 0 auto; 
+     margin-inline: auto;
+     overflow-x: auto;
+     align-items: center;											                    
+}	
+img {			
+			width: 50%;
+			float: left;
+                        padding-top: 0px;
+                        height: 450px;
+}
+.img-info {
+    width: 40%;
+    float: right;
+    padding-top: 100px;		 
+}
+.img-info h1 {
+    font-size: 45px;
+    line-height: 60px;
+    line-spacing: 60px;
+}
+.img-info p {
+    line-height: 30px;
+    font-size: 21px;
+}
+}															
+													
+						             							
